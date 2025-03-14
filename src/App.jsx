@@ -28,6 +28,24 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <div className="footer">
+        <a
+          href="https://vitejs.dev/guide/features.html"
+          target="_blank"
+          rel="noopener"
+        >
+          Documentation
+        </a>
+        <span className="footer-spacer">·</span>
+        <a
+          href="
+https://reactjs.org/docs/getting-started.html"
+          target="_blank"
+          rel="noopener"
+        >
+          React Documentation
+        </a>
+      </  div>
     </>
   )
 }
